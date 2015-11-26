@@ -13,4 +13,4 @@
 
 ## リンク
 
-- <a href="http://www.ciw-japan.com/index.php">CIW公式サイト</a>
+- <a href="http://www.ciw-japan.com/index.php" target='_blank'>CIW公式サイト</a>
