@@ -1,6 +1,6 @@
-## ciw.2015
+# ciw.2015
 
-本リポジトリは「Web Foundation」の授業の情報共有を目的とする
+本リポジトリは「Web Foundation」授業の情報共有を目的とする
 
 ## 評価方法
 
@@ -9,8 +9,8 @@
 
 ## 試験日程
 
-2/26(金)　CIWウェブファンデーションアソシエイト
+- 2/26(金)　CIWウェブファンデーション・アソシエイト
 
 ## リンク
 
-- <a href="http://www.ciw-japan.com/index.php" target='_blank'>CIW公式サイト</a>
+- <a href="http://www.ciw-japan.com/index.php">CIW公式サイト</a>
