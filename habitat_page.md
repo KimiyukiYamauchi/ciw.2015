@@ -1,3 +1,5 @@
+## 各自にGitHubページヘのリンク
+
 <a href='http://n15001.github.io/habitat/' target='_blank'>新垣 清也(n15001)</a>  
 <a href='http://n15002.github.io/habitat/' target='_blank'>新垣 辰貴(n15002)</a>  
 <a href='http://n15003.github.io/habitat/' target='_blank'>伊計 航汰(n15003)</a>  
@@ -8,6 +10,7 @@
 <a href='http://n15009.github.io/habitat/' target='_blank'>古堅 陽一(n15009)</a>  
 <a href='http://n15010.github.io/habitat/' target='_blank'>前森 俊亮(n15010)</a>  
 <a href='http://i13003.github.io/habitat/' target='_blank'>田仲 康人(i13003)</a>  
+<hr>
 <a href='http://s15002.github.io/habitat/' target='_blank'>糸滿 優樹(s15002)</a>  
 <a href='http://s15003.github.io/habitat/' target='_blank'>上地 廣之介(s15003)</a>  
 <a href='http://s15004.github.io/habitat/' target='_blank'>嘉手苅 圭吾(s15004)</a>  
