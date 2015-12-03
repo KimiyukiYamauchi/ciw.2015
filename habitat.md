@@ -7,7 +7,7 @@
 - <a href='https://github.com/n15007/habitat/' target='_blank'>天願 晴優(n15007)</a>
 - <a href='https://github.com/n15009/habitat/' target='_blank'>古堅 陽一(n15009)</a>
 - <a href='https://github.com/n15010/habitat/' target='_blank'>前森 俊亮(n15010)</a>
-- <a href='https://github.com/n15011/habitat/' target='_blank'>田仲 康人(n15011)</a>
+- <a href='https://github.com/i13003/habitat/' target='_blank'>田仲 康人(n15011)</a>
 - <a href='https://github.com/s15002/habitat/' target='_blank'>糸滿 優樹(s15002)</a>
 - <a href='https://github.com/s15003/habitat/' target='_blank'>上地 廣之介(s15003)</a>
 - <a href='https://github.com/s15004/habitat/' target='_blank'>嘉手苅 圭吾(s15004)</a>
