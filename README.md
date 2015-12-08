@@ -42,7 +42,7 @@
 	サイドバーを多機能の拡張
 	- BracketHighlighter  
 	コードのカッコを見やすく & 修正しやすくする
-	- Emmet(p190)  
+	- Emmet  
 	短縮入力で入力の効率化  
 	<a href="http://docs.emmet.io/cheat-sheet/" target="_blank">Emmet記法 チートシート</a>
 	- OmniMarkupPreviewer  
