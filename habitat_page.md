@@ -23,4 +23,5 @@
 <a href='http://s15011.github.io/habitat/' target='_blank'>与儀 武玄(s15011)</a>  
 <a href='http://s15012.github.io/habitat/' target='_blank'>𠮷岡 弘太(s15012)</a>  
 <hr>
-<a href='http://kimiyukiyamauchi.github.io/habitat/' target='_blank'>山内 公之(講師)</a>  
+<a href='http://kimiyukiyamauchi.github.io/habitat/' target='_blank'>山内 公之(講師
+)</a>  
