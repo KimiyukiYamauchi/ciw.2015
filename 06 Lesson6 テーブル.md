@@ -64,4 +64,4 @@ XHTML 1.0 Transitional => サポートされていない
 
 ## 6.5 表内のコンテンツの書式設定
 
-```<strong>```、```<font>```、```<center>```タグを使用
+```<strong>、<font>、<center>```タグを使用
